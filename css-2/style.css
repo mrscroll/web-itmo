@@ -1,0 +1,90 @@
+.head{
+width: 100%;
+height: 70px;
+background-image: url(portrait.jpg);
+color:white;
+text-align: center;
+line-height: 30px;
+font-size: 30px;
+font-weight: 900;
+}
+
+.foot{
+    width: 100%;
+    height: 70px;
+    background-image: url(Huskar_icon.png);
+    color:white;
+    text-align: center;
+    line-height: 30px;
+    font-size: 30px;
+    font-weight: 900;
+    }
+
+.main{
+position: relative;
+}
+.blocks{
+
+width: 250px;
+height: 150px;
+background-image: url(155557849718168756.jpg);
+background-size: auto 200px;
+background-color: #b5e61e;
+
+
+}
+#block{
+position: absolute;
+top: 75%;
+left: 79.5%;
+color:white;
+}
+#picture{
+padding-right:20px;
+width: 50%;
+height: 100%;
+float: left;
+}
+
+
+#content{
+background-image: url(_53089-87.jpg);
+background-repeat: no-repeat;
+background-size:auto 100%;
+width: 55%;
+height: 600px;
+margin: 0 auto;
+margin-top: 50px;
+margin-bottom: 25px;
+text-align: justify;
+font-size: 30px;
+font-weight: 900;
+}
+
+.menu{
+    position: absolute;
+top: -8.5%;
+left: 0%;
+    width: 250px;
+height: 400px;
+background-image: url(155557849718168756.jpg);
+background-size: auto 200px;
+background-color: #b5e61e;
+color:white;
+font-size: 30px;
+}
+
+.txt{
+color:white;
+link:white;
+padding-left:10px;
+text-align:left;
+font-size:20px;
+opacity: 0.6;
+}
+#ol{
+text-size: 20px;
+}
+p{
+font-size: 20px;
+}
